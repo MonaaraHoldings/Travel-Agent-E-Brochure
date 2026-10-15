@@ -1,0 +1,17 @@
+MONAARA LEISURE WEBSITE — PUBLISHING GUIDE
+
+1. Extract this ZIP.
+2. Open the folder: Monaara_Leisure_Approved_Trade_Brochure
+3. Upload the CONTENTS of that folder (not the outer folder itself) to the root of your existing GitHub repository:
+   https://github.com/dsgavinkodithuwakku-web/Monaara-E-Brochure
+4. Ensure index.html is at the repository root and upload the assets/ and downloads/ folders.
+5. Commit the changes. If prompted, choose to replace the existing files.
+6. Wait for GitHub Pages to deploy, then hard-refresh the live site (Ctrl+F5).
+
+PDF
+The latest uploaded 5-page compact brochure is stored at:
+downloads/Monaara_Leisure_Compact_Travel_Trade_Brochure_2026.pdf
+
+The Overview and Travel Trade pages link to this relative path. Keep the filename and folder path unchanged, or update the links in index.html and travel-trade.html.
+
+Before sharing publicly, open the deployed site and test the PDF download link on both pages.
